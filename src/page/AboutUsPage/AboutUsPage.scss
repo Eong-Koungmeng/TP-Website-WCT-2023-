@@ -1,0 +1,28 @@
+/* AboutUsPage.scss */
+
+.about-us-container {
+  text-align: center;
+  padding: 20px;
+  margin-top: 60px;
+}
+
+.content-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-container {
+  margin-right: 20px; /* Add margin to create a distance of 20 pixels */
+}
+
+.about-us-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.content-container {
+  max-width: 600px;
+}

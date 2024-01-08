@@ -1,0 +1,44 @@
+// ticketpage.scss
+
+.ticketpage-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; // Set the height to 100% of the viewport height
+  }
+  
+  .image-col,
+  .info-col {
+    height: 60%; // Set both image and text box to 60% of the container height
+  }
+  
+  .card-img {
+    width: 100%;
+    height: 100%; // Set image height to 100% of its container
+    object-fit: cover; // Ensure the image covers the entire container
+  }
+  
+  .ticketpage-card {
+    width: 100%;
+    height: 100%; // Set text box height to 100% of its container
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%; // Set card body height to 100% of its container
+  }
+  
+  .card-text {
+    font-size: 1.5rem; // Adjust the font size for the text
+  }
+  
+  .button-container {
+    margin-top: 10px; // Add margin for some space
+  }
+  
+  .buy-now-button {
+    width: 120px; // Set a fixed width for the button
+  }
+  

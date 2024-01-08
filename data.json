@@ -1,0 +1,543 @@
+{
+  "carouselData": [
+      {
+          "image":"https://dbkpop.com/wp-content/uploads/2021/08/blackpink_lisa_lalisa_teaser_1.jpg",
+          "title": "Black Pink 01",
+          "subTitle": "International Tour in Lous Angeles",
+          "interval": 300
+      },
+      {
+          "image":"https://www.allegiantstadium.com/assets/img/Blackpink-Encore-1440x500v2-ead6a24188.jpg",
+          "title": "Black Pink 02",
+          "subTitle": "International Tour in Korea",
+          "interval": 300
+      },
+      {
+          "image":"https://www.musicmundial.com/en/wp-content/uploads/2022/09/Rose.jpg",
+          "title": "Black Pink 03",
+          "subTitle": "International Tour in Thailand",
+          "interval": 300
+      },
+      {
+          "image":"https://www.musicmundial.com/en/wp-content/uploads/2022/09/Rose.jpg",
+          "title": "Black Pink 04",
+          "subTitle": "International Tour in Singapore",
+          "interval": 300
+      }
+  ],
+
+  "ticketData": [
+    {
+        "id": "1",
+        "image": "https://m.media-amazon.com/images/I/71kWxuesD-L._AC_SY879_.jpg",
+        "title": "Back Pink Concert 1",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+
+        
+    },
+    {
+        "id": "2",
+        "image": "https://m.media-amazon.com/images/I/61P4IhHzM8L.jpg",
+        "title": "Back Pink Concert 2",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+       
+    },
+    {
+        "id": "3",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51RRkz2OvPL._AC_SX679_.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "4",
+        "image": "https://pbs.twimg.com/media/Fac6yjKaIAI0Nkp?format=jpg&name=large",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "5",
+        "image": "https://i.redd.it/blackpink-pink-venom-d-1-poster-v0-o0ghzjbigai91.jpg?s=efcdf9f1a04e54eeb44743599a9050ad2aa3951f",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "6",
+        "image": "https://i.redd.it/blackpink-pink-venom-d-1-poster-v0-o0ghzjbigai91.jpg?s=efcdf9f1a04e54eeb44743599a9050ad2aa3951f",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "7",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ea1a60159177289.63ade0fe388eb.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "8",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjU3NmQ0MzMtZTIwMS00NDA5LWEzYTQtMjU0MzgzYTI0OTE5XkEyXkFqcGdeQXVyNTYyOTk2Mzk@._V1_FMjpg_UX1000_.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "9",
+        "image": "https://i.pinimg.com/1200x/83/b6/56/83b656cb0aad7f28b325f7d79385fa0b.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "10",
+        "image": "https://res.heraldm.com/phpwas/restmb_jhidxmake.php?idx=5&simg=201901211754369532866_20190121175918_01.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "11",
+        "image": "https://m.media-amazon.com/images/I/71kWxuesD-L._AC_SY879_.jpg",
+        "title": "Back Pink Concert 1",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "12",
+        "image": "https://m.media-amazon.com/images/I/61P4IhHzM8L.jpg",
+        "title": "Back Pink Concert 2",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+       
+    },
+    {
+        "id": "13",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51RRkz2OvPL._AC_SX679_.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "14",
+        "image": "https://pbs.twimg.com/media/Fac6yjKaIAI0Nkp?format=jpg&name=large",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "15",
+        "image": "https://i.redd.it/blackpink-pink-venom-d-1-poster-v0-o0ghzjbigai91.jpg?s=efcdf9f1a04e54eeb44743599a9050ad2aa3951f",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "16",
+        "image": "https://i.redd.it/blackpink-pink-venom-d-1-poster-v0-o0ghzjbigai91.jpg?s=efcdf9f1a04e54eeb44743599a9050ad2aa3951f",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "17",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ea1a60159177289.63ade0fe388eb.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "18",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjU3NmQ0MzMtZTIwMS00NDA5LWEzYTQtMjU0MzgzYTI0OTE5XkEyXkFqcGdeQXVyNTYyOTk2Mzk@._V1_FMjpg_UX1000_.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "19",
+        "image": "https://i.pinimg.com/1200x/83/b6/56/83b656cb0aad7f28b325f7d79385fa0b.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "20",
+        "image": "https://res.heraldm.com/phpwas/restmb_jhidxmake.php?idx=5&simg=201901211754369532866_20190121175918_01.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "21",
+        "image": "https://m.media-amazon.com/images/I/71kWxuesD-L._AC_SY879_.jpg",
+        "title": "Back Pink Concert 1",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+        
+    },
+    {
+        "id": "22",
+        "image": "https://m.media-amazon.com/images/I/61P4IhHzM8L.jpg",
+        "title": "Back Pink Concert 2",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+       
+    },
+    {
+        "id": "23",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51RRkz2OvPL._AC_SX679_.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "24",
+        "image": "https://pbs.twimg.com/media/Fac6yjKaIAI0Nkp?format=jpg&name=large",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "25",
+        "image": "https://i.redd.it/blackpink-pink-venom-d-1-poster-v0-o0ghzjbigai91.jpg?s=efcdf9f1a04e54eeb44743599a9050ad2aa3951f",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "26",
+        "image": "https://i.redd.it/blackpink-pink-venom-d-1-poster-v0-o0ghzjbigai91.jpg?s=efcdf9f1a04e54eeb44743599a9050ad2aa3951f",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "27",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ea1a60159177289.63ade0fe388eb.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "28",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjU3NmQ0MzMtZTIwMS00NDA5LWEzYTQtMjU0MzgzYTI0OTE5XkEyXkFqcGdeQXVyNTYyOTk2Mzk@._V1_FMjpg_UX1000_.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "29",
+        "image": "https://i.pinimg.com/1200x/83/b6/56/83b656cb0aad7f28b325f7d79385fa0b.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "30",
+        "image": "https://res.heraldm.com/phpwas/restmb_jhidxmake.php?idx=5&simg=201901211754369532866_20190121175918_01.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "standard",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "31",
+        "image": "https://m.media-amazon.com/images/I/71kWxuesD-L._AC_SY879_.jpg",
+        "title": "Back Pink Concert 1",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "promotion",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+        
+    },
+    {
+        "id": "32",
+        "image": "https://m.media-amazon.com/images/I/61P4IhHzM8L.jpg",
+        "title": "Back Pink Concert 2",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "promotion",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+       
+    },
+    {
+        "id": "33",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51RRkz2OvPL._AC_SX679_.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "earlybird",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "34",
+        "image": "https://pbs.twimg.com/media/Fac6yjKaIAI0Nkp?format=jpg&name=large",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "earlybird",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "35",
+        "image": "https://i.redd.it/blackpink-pink-venom-d-1-poster-v0-o0ghzjbigai91.jpg?s=efcdf9f1a04e54eeb44743599a9050ad2aa3951f",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "earlybird",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "36",
+        "image": "https://i.redd.it/blackpink-pink-venom-d-1-poster-v0-o0ghzjbigai91.jpg?s=efcdf9f1a04e54eeb44743599a9050ad2aa3951f",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "earlybird",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "37",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ea1a60159177289.63ade0fe388eb.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "earlybird",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "38",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjU3NmQ0MzMtZTIwMS00NDA5LWEzYTQtMjU0MzgzYTI0OTE5XkEyXkFqcGdeQXVyNTYyOTk2Mzk@._V1_FMjpg_UX1000_.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "earlybird",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "39",
+        "image": "https://i.pinimg.com/1200x/83/b6/56/83b656cb0aad7f28b325f7d79385fa0b.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "earlybird",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "40",
+        "image": "https://res.heraldm.com/phpwas/restmb_jhidxmake.php?idx=5&simg=201901211754369532866_20190121175918_01.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "earlybird",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "41",
+        "image": "https://m.media-amazon.com/images/I/71kWxuesD-L._AC_SY879_.jpg",
+        "title": "Back Pink Concert 1",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "promotion",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+        
+    },
+    {
+        "id": "42",
+        "image": "https://m.media-amazon.com/images/I/61P4IhHzM8L.jpg",
+        "title": "Back Pink Concert 2",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "promotion",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+       
+    },
+    {
+        "id": "43",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51RRkz2OvPL._AC_SX679_.jpg",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "promotion",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "44",
+        "image": "https://pbs.twimg.com/media/Fac6yjKaIAI0Nkp?format=jpg&name=large",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "promotion",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    },
+    {
+        "id": "45",
+        "image": "https://i.redd.it/blackpink-pink-venom-d-1-poster-v0-o0ghzjbigai91.jpg?s=efcdf9f1a04e54eeb44743599a9050ad2aa3951f",
+        "title": "Back Pink Concert 3",
+        "subTitle": "Blach Pink In YOUR AREA",
+        "description": "We are pink and black", 
+        "category": "promotion",
+        "date": "23 December 2023",
+        "time": "7:00 pm",
+        "price": "$ 76.99"
+    } 
+  ],
+
+  "users" : [
+
+  ]
+
+}
+
+  

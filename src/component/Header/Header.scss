@@ -1,0 +1,62 @@
+.header-wrapper {
+    font-size: 11px;
+    // background-color: transparent;
+    top: 0;
+    left: 0;
+    z-index: 2; /* Ensure the header is above the carousel */
+    /* Other header styles */
+    .navbar{
+        --bs-navbar-padding-x: 50px;
+        --bs-navbar-padding-y: 0;
+        --bs-navbar-brand-padding-y: 0.2rem;
+        --bs-navbar-nav-link-padding-x: 0.8rem;
+        opacity: 0.8;
+        .nav-link {
+            color: white;
+            text-decoration: none;
+            &:hover {
+                color: #0056b3;
+                text-decoration: none;
+            }
+            
+            &.active {
+                color: #007bff;
+                background-color: #007bff;
+                border-radius: 0.25rem;
+            }
+            .header-icon {
+                fill: white; /* Default color for the icon */
+                transition: fill 0.3s ease; /* Smooth transition for color change */
+              
+                &:hover {
+                  fill: #0056b3; /* Change the icon color on hover */
+                }
+    
+                &:active {
+                    fill: #007bff;
+                }
+            }
+        }
+        .language-container {
+            display: flex;
+            justify-content: space-between;
+            .flag{
+                width:25px;
+                height:25px;
+                display: block;
+                margin-top: 7px;      
+            }
+        }
+    
+    }
+
+    .custom-dropdown {
+        .dropdown-item {
+            font-size: 11px; /* Adjust the font size as needed */
+            /* Additional styling as per your requirements */
+        }
+    }
+    
+    
+    
+}

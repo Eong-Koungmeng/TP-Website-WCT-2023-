@@ -1,0 +1,34 @@
+
+.footer-col >*{
+    padding-left: 30px;
+}
+
+.footer-text{
+    color: white;
+    font-size: 13px;
+    padding: 1rem 5rem 1rem 0;
+}
+
+h3{
+    color: white;
+    font-size: 15px;
+    padding-left: 15px;
+}
+.footer-icon{
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+
+}
+.footer-icon > * {
+    margin-right: 8px;
+}
+.footer-quick-access ul {
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+}
+.footer-quick-access ul li {
+    padding: 0.35rem 0;
+}
+

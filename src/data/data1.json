@@ -1,0 +1,62 @@
+{
+    "carouselData": [
+        {
+            "image":"https://dbkpop.com/wp-content/uploads/2021/08/blackpink_lisa_lalisa_teaser_1.jpg",
+            "title": "Black Pink 01",
+            "subTitle": "International Tour in Lous Angeles",
+            "interval": 300
+        },
+        {
+            "image":"https://www.allegiantstadium.com/assets/img/Blackpink-Encore-1440x500v2-ead6a24188.jpg",
+            "title": "Black Pink 02",
+            "subTitle": "International Tour in Korea",
+            "interval": 300
+        },
+        {
+            "image":"https://www.musicmundial.com/en/wp-content/uploads/2022/09/Rose.jpg",
+            "title": "Black Pink 03",
+            "subTitle": "International Tour in Thailand",
+            "interval": 300
+        },
+        {
+            "image":"https://www.musicmundial.com/en/wp-content/uploads/2022/09/Rose.jpg",
+            "title": "Black Pink 04",
+            "subTitle": "International Tour in Singapore",
+            "interval": 300
+        }
+    ],
+
+    "ticketData": [
+        {
+            "image":"https://dbkpop.com/wp-content/uploads/2021/08/blackpink_lisa_lalisa_teaser_1.jpg",
+            "title": "Black Pink 01",
+            "subTitle": "International Tour in Lous Angeles",
+            "interval": 300
+        },
+        {
+            "image":"https://www.allegiantstadium.com/assets/img/Blackpink-Encore-1440x500v2-ead6a24188.jpg",
+            "title": "Black Pink 02",
+            "subTitle": "International Tour in Korea",
+            "interval": 300
+        },
+        {
+            "image":"https://www.musicmundial.com/en/wp-content/uploads/2022/09/Rose.jpg",
+            "title": "Black Pink 03",
+            "subTitle": "International Tour in Thailand",
+            "interval": 300
+        },
+        {
+            "image":"https://www.musicmundial.com/en/wp-content/uploads/2022/09/Rose.jpg",
+            "title": "Black Pink 04",
+            "subTitle": "International Tour in Singapore",
+            "interval": 300
+        }
+    ],
+
+    "users" : [
+
+    ]
+
+}
+
+    

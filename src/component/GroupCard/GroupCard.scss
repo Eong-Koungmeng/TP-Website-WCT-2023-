@@ -1,0 +1,85 @@
+.container {
+  --bs-gutter-x: 0;
+}
+// .card-group{
+//     margin:0 60px 0 60px ;
+// }
+// .card-group > .card {
+//     border: 1rem;
+//     border-color: black;
+//     --bs-card-border-radius:50px;
+//     --bs-card-inner-border-radius: none;
+//     --bs-card-title-color: #000000;
+    
+// }
+.mb-3 {
+    margin: 0 1rem 1rem 1rem; /* Margin for spacing around each card */
+}
+.card {
+  position: relative;
+}
+.card-buttons {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-bottom: 10px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .card:hover .card-buttons {
+    opacity: 0.8;
+
+  }
+  
+  .more-description-button,
+  .save-button {
+    font-size: 10px !important;
+    padding: 5px 10px;
+  }
+  .card-body{
+    padding:0.1rem;
+  }
+  .card-title{
+    margin-bottom:0.1rem;
+  }
+  .h5{
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .card-text{
+    font-size: 10px;
+    font-weight: bold;
+    color: #0056b3;
+    margin-bottom:0.1rem;
+    margin-block-start: 0.1rem;
+    margin-block-end: 0.1rem;
+    
+
+  }
+  .save-icon {
+    fill: rgb(42, 42, 42); 
+    transition: fill 0.3s ease; 
+  
+    &:hover {
+      fill: #0056b3; 
+    }
+
+    &:active {
+        fill: #007bff;
+    }
+  }
+ 
+.no-ticket {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 125px; 
+  margin-bottom: 125px; 
+}
