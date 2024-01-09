@@ -1,5 +1,5 @@
 import React from 'react'
-import "../../component/GroupCard/GroupCard.scss"
+import "../../component/GroupCard/GroupCard.css"
 import { BsBookmarkFill } from "react-icons/bs";
 import { HiOutlineTicket } from "react-icons/hi2";
 import { useNavigate } from "react-router-dom";

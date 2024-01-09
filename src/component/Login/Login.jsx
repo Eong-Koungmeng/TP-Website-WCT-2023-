@@ -3,8 +3,8 @@ import React, { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { Card, Form, Button, Alert, Container, Row, Col } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './signup_login_styles.css';
-import Logo from '../asset/logo.png';
+import '../SignUp/signup_login_styles.css';
+import Logo from '../../asset/logo.png';
 
 const Login = () => {
     useEffect(() => {
@@ -15,6 +15,7 @@ const Login = () => {
           document.body.classList.remove('login-signup-body');
         };
     }, []);
+
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const [error, setError] = useState("");

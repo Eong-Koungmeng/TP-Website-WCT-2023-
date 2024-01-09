@@ -1,10 +1,8 @@
 .header-wrapper {
     font-size: 11px;
-    // background-color: transparent;
     top: 0;
     left: 0;
-    z-index: 2; /* Ensure the header is above the carousel */
-    /* Other header styles */
+    z-index: 2; 
     .navbar{
         --bs-navbar-padding-x: 50px;
         --bs-navbar-padding-y: 0;
@@ -52,11 +50,8 @@
 
     .custom-dropdown {
         .dropdown-item {
-            font-size: 11px; /* Adjust the font size as needed */
-            /* Additional styling as per your requirements */
+            font-size: 11px; 
         }
     }
-    
-    
     
 }

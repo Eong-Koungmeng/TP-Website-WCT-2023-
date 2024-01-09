@@ -1,17 +1,6 @@
 .container {
   --bs-gutter-x: 0;
 }
-// .card-group{
-//     margin:0 60px 0 60px ;
-// }
-// .card-group > .card {
-//     border: 1rem;
-//     border-color: black;
-//     --bs-card-border-radius:50px;
-//     --bs-card-inner-border-radius: none;
-//     --bs-card-title-color: #000000;
-    
-// }
 .mb-3 {
     margin: 0 1rem 1rem 1rem; /* Margin for spacing around each card */
 }

@@ -1,6 +1,6 @@
 .login-signup-body {
     height: 100vh;
-    background-color: #c2c3c9;
+    background-color: #ffffff;
     background-position: center;
     background-size: cover;
     display: flex;
@@ -16,7 +16,6 @@
     height: 100%;
     z-index: -2;
 }
-
 
 .logo-img {
     text-align: center;
@@ -35,7 +34,7 @@
 
 .card {
     backdrop-filter: blur(10px);
-    background-color: rgb(255, 255, 255, 0.65);
+    background-color: rgba(255, 255, 255, 0.65);
     display: flex;
     width: 800px;
     height: 600px;
@@ -49,7 +48,7 @@
 .img-right-sign_up, .img-left-log_in {
     width: 50%;
     background-size: cover;
-    background-image: url("../asset/signIn.jpg");
+    background-image: url("../../asset/signIn.jpg");
 }
 
 .card-body-log-in,

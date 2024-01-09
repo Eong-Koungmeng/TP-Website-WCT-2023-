@@ -2,7 +2,7 @@ import React from "react"
 import {Container, Nav, Navbar, NavDropdown} from "react-bootstrap"
 import {Link, useMatch, useResolvedPath, useNavigate} from "react-router-dom"
 
-import "./Header.scss"
+import "./Header.css"
 
 import { FaUserLarge } from "react-icons/fa6";
 import { IoMdNotifications } from "react-icons/io";
@@ -49,11 +49,11 @@ function Header() {
         <Navbar expand='lg' data-bs-theme="dark" fixed="top" className="bg-body-tertiary ">
           
             {/* Navbar Brand */}
-            <Navbar.Brand className="custom-brand" >
+            <Navbar.Brand>
               <img src={logo} width="80" height="40" className="d-inline-block align-top" alt="Your Brand Logo"/>
             </Navbar.Brand>    
 
-            <Container fluid className="up-header">
+            <Container fluid>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">         
 
@@ -69,7 +69,7 @@ function Header() {
                     <CustomLink to="/Notification" >
                         <IoMdNotifications size="1rem" className="header-icon" />
                     </CustomLink>
-                    <CustomLink to="/Profile">
+                    <CustomLink to="/Login">
                         <FaUserLarge size="0.8rem" className="header-icon" />
                     </CustomLink>
 

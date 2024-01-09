@@ -7,8 +7,8 @@ const Layout = ({children}) => {
   return (
       <>
         <Header/>
-          <Container fluid>
-            <div className="row gx-4 gx-lg-5 justify-content-center">
+          <Container fluid className="bg-dar min-vh-100">
+            <div className="row gx-3 gx-lg-4 justify-content-center">
                 {children}
             </div>
           </Container>

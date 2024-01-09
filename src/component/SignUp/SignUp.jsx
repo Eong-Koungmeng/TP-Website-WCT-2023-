@@ -4,7 +4,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { Card, Form, Button, Alert, Container } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './signup_login_styles.css';
-import Logo from '../asset/logo.png';
+import Logo from '../../asset/logo.png';
 
 const Signup = () => {
     useEffect(() => {

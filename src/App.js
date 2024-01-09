@@ -17,8 +17,9 @@ import PaymentForm from './component/Payment/Payment';
 import ContactUs from "./page/ContactUsPage/ContactUs";
 import AboutUsPage from "./page/AboutUsPage/AboutUsPage";
 import Ticket from "./page/PurchasedTicketPage/Ticket";
-// import Signup from "./component/SignUp";
-// import Login from "./component/Login";
+// import Signup from "./component/SignUp/SignUp";
+// import Login from "./component/Login/Login";
+import Login1 from "./component/Login/Login1"
 import END_POINTS from './api/apiConfig';
 
 import "./App.scss"
@@ -103,6 +104,7 @@ function App() {
               <Route  path="/Ticket" element={<Ticket />} />
               {/* <Route  path="/Login" element={<Login />} />
               <Route  path="/Signup" element={<Signup />} /> */}
+              <Route  path="/Register" element={<Login1 />} />
               
           </Routes>
       </Container>

@@ -6,7 +6,7 @@ import { BsFire } from "react-icons/bs";
 import { BiSolidOffer } from "react-icons/bi";
 import { useNavigate } from "react-router-dom";
 
-import "./GroupCard.scss"
+import "./GroupCard.css"
 
 function GroupCard({ticketCards, handleCheckTicket}) {
   const [hoverIndex, setHoverIndex] = useState(-1);
