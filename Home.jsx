@@ -6,7 +6,7 @@ import Search from '../../component/Search/Search'
 import "./Home.scss"
 
 
-const Home = ({slides, ticketCards, handleCheckTicket, saveTickets}) => {
+const Home = ({slides, ticketCards, handleCheckTicket, saveTickets, handleGetTicketId}) => {
   const [activeTab, setActiveTab] = useState('all'); 
   const [filteredTickets, setFilteredTickets] = useState(ticketCards);
 
@@ -43,16 +43,16 @@ const Home = ({slides, ticketCards, handleCheckTicket, saveTickets}) => {
           onSelect={handleTabSelect}
           >
           <Tab eventKey="all" title="All">
-            <GroupCard ticketCards={filteredTickets} handleCheckTicket={handleCheckTicket} saveTickets={saveTickets}/>
+            <GroupCard ticketCards={filteredTickets} handleCheckTicket={handleCheckTicket} saveTickets={saveTickets} handleGetTicketId={handleGetTicketId}/>
           </Tab>
           <Tab eventKey="standard" title="Standard">
-            <GroupCard ticketCards={filteredTickets} handleCheckTicket={handleCheckTicket} saveTickets={saveTickets}/>
+            <GroupCard ticketCards={filteredTickets} handleCheckTicket={handleCheckTicket} saveTickets={saveTickets} handleGetTicketId={handleGetTicketId}/>
           </Tab>
           <Tab eventKey="earlybird" title="EarlyBird">
-            <GroupCard ticketCards={filteredTickets} handleCheckTicket={handleCheckTicket} saveTickets={saveTickets}/>
+            <GroupCard ticketCards={filteredTickets} handleCheckTicket={handleCheckTicket} saveTickets={saveTickets} handleGetTicketId={handleGetTicketId}/>
           </Tab>
           <Tab eventKey="promotion" title="Promotion">
-            <GroupCard ticketCards={filteredTickets} handleCheckTicket={handleCheckTicket} saveTickets={saveTickets}/>
+            <GroupCard ticketCards={filteredTickets} handleCheckTicket={handleCheckTicket} saveTickets={saveTickets} handleGetTicketId={handleGetTicketId}/>
           </Tab>
           </Tabs>
       </div>  
