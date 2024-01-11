@@ -1,0 +1,21 @@
+{
+    "header": {
+        "home": "Home",
+        "aboutUs": "About Us",
+        "contactUs": "Contact Us",
+        "ticket": "Ticket",
+        "language": "Language",
+        "english": "English",
+        "khmer": "Khmer"
+    },
+    "page": {
+        "home": {
+            "title": "Awesome Blog",
+            "subTitle": "A Blog Theme by Start Bootstrap"
+        },
+        "contactUs": {
+            "title": "Contact us",
+            "subTitle": ""
+        }
+    }
+}

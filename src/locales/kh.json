@@ -1,0 +1,21 @@
+{
+    "header": {
+        "home": "ផ្ទះ",
+        "aboutUs": "អំពីយើង",
+        "contactUs": "ទាក់ទង",
+        "ticket": "សំបុត្រ",
+        "language": "ភាសា",
+        "english": "អង់គ្លេស",
+        "khmer": "ខ្មែរ"
+    },
+    "page": {
+        "home": {
+            "title": "Awesome Blog",
+            "subTitle": "A Blog Theme by Start Bootstrap"
+        },
+        "contactUs": {
+            "title": "Contact us",
+            "subTitle": ""
+        }
+    }
+}
