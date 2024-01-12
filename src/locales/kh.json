@@ -8,14 +8,19 @@
         "english": "អង់គ្លេស",
         "khmer": "ខ្មែរ"
     },
-    "page": {
-        "home": {
-            "title": "Awesome Blog",
-            "subTitle": "A Blog Theme by Start Bootstrap"
-        },
-        "contactUs": {
-            "title": "Contact us",
-            "subTitle": ""
-        }
+    "search": "ស្វែងរក",
+    "category": {
+        "all": "ទាំងអស់",
+        "standard": "ស្តង់ដា",
+        "earlybird": "មកមុន",
+        "promotion": "ប្រូមូសិន"
+    },
+    "groupCard": {
+        "moreInfo": "ព័ត៌មានបន្ថែម",
+        "buyNow": "ទិញឥឡូវ"
+    },
+    "button": {
+        "loadMore": "ផ្ទុកច្រើន",
+        "loadLess": "ផ្ទុកតិច"
     }
 }

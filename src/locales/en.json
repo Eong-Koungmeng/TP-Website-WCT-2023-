@@ -8,14 +8,19 @@
         "english": "English",
         "khmer": "Khmer"
     },
-    "page": {
-        "home": {
-            "title": "Awesome Blog",
-            "subTitle": "A Blog Theme by Start Bootstrap"
-        },
-        "contactUs": {
-            "title": "Contact us",
-            "subTitle": ""
-        }
+    "search": "Search",
+    "category": {
+        "all": "All",
+        "standard": "Standard",
+        "earlybird": "EarlyBird",
+        "promotion": "Promotion"
+    },
+    "groupCard": {
+        "moreInfo": "More Info",
+        "buyNow": "Buy Now"
+    },
+    "button": {
+        "loadMore": "Load More",
+        "loadLess": "Load Less"
     }
 }
